@@ -1,0 +1,17 @@
+//hello world
+action Main
+a=5
+say "Hello World"
+output "Hello World"
+repeat 6 times
+output a
+say a
+a=a-1
+end //end of the repeat 10 times 
+say "This is the end, for now!"
+output "This is the end, for now!"
+end //end of action Main
+
+action What
+
+
